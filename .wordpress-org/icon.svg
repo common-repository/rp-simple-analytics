@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 67.733332 67.733335"
+   height="256"
+   width="256">
+  <defs
+     id="defs2" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(0,-229.26665)"
+     id="layer1">
+    <rect
+       y="229.26665"
+       x="-2.220446e-16"
+       height="67.73333"
+       width="67.73333"
+       id="rect4518"
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.11666656;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       ry="5.2916665"
+       y="229.26665"
+       x="-2.220446e-16"
+       height="67.733322"
+       width="67.73333"
+       id="rect821"
+       style="fill:#ff6c00;fill-opacity:1;stroke:none;stroke-width:2.11666656;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       ry="5.2916665"
+       y="230.85416"
+       x="1.5875"
+       height="64.558334"
+       width="64.558334"
+       id="rect823"
+       style="fill:#656565;fill-opacity:1;stroke:none;stroke-width:2.11666656;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       id="text827"
+       y="239.32082"
+       x="21.101898"
+       style="font-style:normal;font-weight:normal;font-size:7.05555534px;line-height:99.6999979%;font-family:sans-serif;text-align:center;letter-spacing:0.43920833px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;line-height:99.6999979%;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:center;letter-spacing:0.43920833px;text-anchor:middle;fill:#ffffff;stroke-width:0.26458332px;"
+         y="239.32082"
+         x="21.321503"
+         id="tspan825">REFINED</tspan><tspan
+         id="tspan829"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;line-height:99.6999979%;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:center;letter-spacing:0.43920833px;text-anchor:middle;fill:#ffffff;stroke-width:0.26458332px;"
+         y="246.46802"
+         x="21.321503">PRACTICE</tspan></text>
+    <text
+       id="text833"
+       y="263.66251"
+       x="62.315708"
+       style="font-style:normal;font-weight:normal;font-size:9.87777805px;line-height:125%;font-family:sans-serif;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#ff6c00;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       xml:space="preserve"><tspan
+         style="font-size:9.87777805px;text-align:end;text-anchor:end;stroke-width:0.26458332px;fill:#ff6c00;fill-opacity:1;"
+         y="263.66251"
+         x="62.315708"
+         id="tspan831"><tspan
+   id="tspan839"
+   style="fill:#ff6c00;fill-opacity:1;">S</tspan>imple</tspan><tspan
+         id="tspan835"
+         style="font-size:9.87777805px;text-align:end;text-anchor:end;stroke-width:0.26458332px;fill:#ff6c00;fill-opacity:1;"
+         y="276.00974"
+         x="62.315708"><tspan
+   id="tspan847"
+   style="fill:#ff6c00;fill-opacity:1;">A</tspan>nalytics</tspan><tspan
+         id="tspan837"
+         style="font-size:9.87777805px;text-align:end;text-anchor:end;stroke-width:0.26458332px;fill:#ff6c00;fill-opacity:1;"
+         y="288.35696"
+         x="62.315708"><tspan
+   id="tspan853"
+   style="fill:#ff6c00;fill-opacity:1;">I</tspan>ntegration</tspan></text>
+  </g>
+</svg>

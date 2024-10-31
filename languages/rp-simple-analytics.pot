@@ -1,0 +1,164 @@
+# Copyright (C) 2020 Refined Practice
+# This file is distributed under the same license as the Refined Practice - Simple Analytics Integration plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Refined Practice - Simple Analytics Integration 1.2.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/rp-simple-analytics\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2020-07-02T09:56:09+02:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.4.0\n"
+"X-Domain: rp-simple-analytics\n"
+
+#. Plugin Name of the plugin
+#: admin/class-rp-simple-analytics-admin.php:95
+msgid "Refined Practice - Simple Analytics Integration"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "https://www.refinedpractice.com/wordpress-plugins/"
+msgstr ""
+
+#. Description of the plugin
+msgid "Embeds the Simple Analytics privacy friendly analytics service (see https://simpleanalytics.com/)"
+msgstr ""
+
+#. Author of the plugin
+msgid "Refined Practice"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://www.refinedpractice.com/"
+msgstr ""
+
+#: admin/class-rp-simple-analytics-admin.php:96
+msgid "RP Simple Analytics"
+msgstr ""
+
+#. translators: %s: Link to Simple Analytics info on your privacy policy
+#: admin/class-rp-simple-analytics-admin.php:115
+msgid "As Simple Analytics does not place cookies or collect personally identifiable information there is no requirement to add anything to your privacy policy. However, you may want to include the following text to let your users know that you are using Simple Analytics. <a href=\"%s\" target=\"_blank\">Find out more about Simple Analytics privacy</a>."
+msgstr ""
+
+#: admin/class-rp-simple-analytics-admin.php:116
+msgid "Suggested Text:"
+msgstr ""
+
+#. translators: 1: Link to Simple Analytics homepage 2: Link to Simple Analytics "What We Collect" page
+#: admin/class-rp-simple-analytics-admin.php:119
+msgid "To get critical information about the behavior of our visitors, we use <a href=\"%1$s\" target=\"_blank\">Simple Analytics</a>. This analytics software gives us insight about our visitors only in general, but not about individuals per say, as it does not track visitors and does not store any personal identifiable information. <a href=\"%2$s\" target=\"_blank\">Go to their documentation</a> to find out what Simple Analytics collects ( and most importantly what they do not )."
+msgstr ""
+
+#: admin/class-rp-simple-analytics-admin.php:123
+msgid "Simple Analytics Integration by Refined Practice"
+msgstr ""
+
+#: admin/class-rp-simple-analytics-admin.php:156
+msgid "Track Logged-In Users"
+msgstr ""
+
+#: admin/class-rp-simple-analytics-admin.php:162
+msgid "Block logged in users from tracking?"
+msgstr ""
+
+#: admin/class-rp-simple-analytics-admin.php:172
+msgid "Block users with this capability"
+msgstr ""
+
+#: admin/class-rp-simple-analytics-admin.php:182
+msgid "Dashboard Widget"
+msgstr ""
+
+#: admin/class-rp-simple-analytics-admin.php:188
+msgid "Add analytics widget to dashboard?"
+msgstr ""
+
+#: admin/class-rp-simple-analytics-admin.php:198
+msgid "Event Tracking"
+msgstr ""
+
+#: admin/class-rp-simple-analytics-admin.php:204
+msgid "Include event tracking code?"
+msgstr ""
+
+#: admin/class-rp-simple-analytics-admin.php:214
+msgid "Enqueue jQuery?"
+msgstr ""
+
+#: admin/class-rp-simple-analytics-admin.php:224
+msgid "Additional javascript for inclusion (rendered in your footer via <code>wp_add_inline_script</code>). Do not include <code>&lt;script&gt;</code> tags."
+msgstr ""
+
+#: admin/class-rp-simple-analytics-admin.php:267
+msgid "is not a recognised capability. Please correct below and try again."
+msgstr ""
+
+#: admin/class-rp-simple-analytics-admin.php:283
+msgid "Use these settings to block logged in users with a particular capability from being included in the analytics. This works by not loading the analytics script for these users."
+msgstr ""
+
+#: admin/class-rp-simple-analytics-admin.php:299
+msgid "If this is checked then logged in users with the capability below will not be included in the analytics."
+msgstr ""
+
+#: admin/class-rp-simple-analytics-admin.php:310
+msgid "On a default installation you can use <code>edit_theme_options</code> to block just Administrators,  <code>publish_pages</code> to block Editors and above, <code>publish_posts</code> to block Authors and above, <code>edit_posts</code> to block Contributors and above and <code>read</code> to block Subscribers and above. <a href=\"https://wordpress.org/support/article/roles-and-capabilities/\" target=\"_blank\">Read more about Roles and Capabilities</a>"
+msgstr ""
+
+#: admin/class-rp-simple-analytics-admin.php:320
+msgid "Add a widget to your dashboard to show the latest analytics. <strong>CAUTION</strong> this will only work for sites with public analytics."
+msgstr ""
+
+#: admin/class-rp-simple-analytics-admin.php:344
+msgid "Event tracking is experimental and requires some additional javascript to trigger the events when needed. These settings let you add the basic event tracking code and add some custom javascript to the bottom of each page to trigger events. <a href=\"https://docs.simpleanalytics.com/events\" target=\"_blank\">Read about event tracking</a>"
+msgstr ""
+
+#: admin/class-rp-simple-analytics-admin.php:373
+msgid "If you want to use jQuery in your custom javascript below then make sure it is enqueued by checking this option. Note that WordPress will load jQuery in noConflict mode ( see <a href=\"https://developer.wordpress.org/reference/functions/wp_enqueue_script/#comment-1473\" target=\"_blank\">this note</a> )"
+msgstr ""
+
+#: admin/class-rp-simple-analytics-admin.php:404
+msgid "Simple Analytics is a privacy friendly analytics service which does not use cookies or collect any personal data."
+msgstr ""
+
+#: admin/class-rp-simple-analytics-admin.php:410
+msgid "<strong>To use Simple Analytics you first need to sign up for a subscription.</strong> We would love it if you could support development of this plugin by signing up via our referral link <a href=\"https://referral.simpleanalytics.com/refined-practice\" target=\"_blank\">https://referral.simpleanalytics.com/refined-practice</a> ( it does not cost you anything ) but if you would prefer not to then you can find out <a href=\"https://simpleanalytics.com/#signup\" target=\"_blank\">more about subscription prices here</a>."
+msgstr ""
+
+#: admin/class-rp-simple-analytics-admin.php:416
+msgid "Once you have a subscription you should <a href=\"https://simpleanalytics.com/websites/add\" target=\"_blank\">add this website to your dashboard</a> to start collecting analytics."
+msgstr ""
+
+#: admin/class-rp-simple-analytics-admin.php:423
+msgid "Save Settings"
+msgstr ""
+
+#. translators: %s: Site name of this website
+#: admin/class-rp-simple-analytics-admin.php:463
+msgid "%s has received <span id=\"pageviews\"></span> page views in the last month."
+msgstr ""
+
+#: admin/class-rp-simple-analytics-admin.php:471
+msgid "Ad blockers do not like the Simple Analytics embed, disable yours to view this graph"
+msgstr ""
+
+#: admin/class-rp-simple-analytics-admin.php:477
+msgid "View the full page view analytics here"
+msgstr ""
+
+#: admin/class-rp-simple-analytics-admin.php:482
+msgid "View the event analytics here"
+msgstr ""
+
+#: admin/class-rp-simple-analytics-admin.php:487
+msgid "Can't see anything? Check that the site has been added to your Simple Analytics subscription and that the analytics are set to public"
+msgstr ""
+
+#. translators: 1: Link to Simple Analytics home/dashboard page 2: Refined Practice Simple Analytics Referral link 3: Link to RP Simple Analytics settings page
+#: admin/class-rp-simple-analytics-admin.php:518
+msgid "RP Simple Analytics is now active. If you already have a Simple Analytics subscription then make sure that you <a href=\"%1$s\" target=\"_blank\">add this site to your Simple Analytics dashboard</a>. If you do not have a subscription yet please consider supporting this plugin by signing up through our <a href=\"%2$s\" target=\"_blank\">referral link</a>, you will also get one month for free! You can <a href=\"%3$s\">adjust this plugin's settings here</a>."
+msgstr ""
